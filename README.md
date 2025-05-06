@@ -8,9 +8,6 @@ My repos are mostly personal tools, backend experiments, or scripts in Python, G
 
 ---
 
-## Skills & Tools
-
-
 ## Skills & Expertise
 
 <div align="center">
