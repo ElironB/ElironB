@@ -10,7 +10,7 @@ My repos are mostly personal tools, backend experiments, or scripts in Python, G
 
 ## Skills & Expertise
 
-<div align="center">
+<div align="left">
   <a href="https://elironb-helper.vercel.app/" target="_blank">
     <img src="https://elironb-helper.vercel.app/images/skills-radar.png" alt="Skills Radar Chart" width="450" />
   </a>
