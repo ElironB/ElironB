@@ -10,15 +10,14 @@ My repos are mostly personal tools, backend experiments, or scripts in Python, G
 
 ## Skills & Tools
 
-| Skill                  | Level              |
-|------------------------|--------------------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ████████ 70% |
-| ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)     | █████████ 80% |
-| ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)              | ████ 40% |
-| ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)     | █████████ 85% |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | ███████ 65% |
-| ![Networking](https://img.shields.io/badge/-Networking-005AA7?logo=apacheairflow&logoColor=white) | █████████ 80% |
-| ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF6F61?logo=tryhackme&logoColor=white) | ██████████ 90% |
+
+## Skills & Expertise
+
+<div align="center">
+  <a href="https://elironb-helper.vercel.app/" target="_blank">
+    <img src="https://elironb-helper.vercel.app/images/skills-radar.png" alt="Skills Radar Chart" width="450" />
+  </a>
+</div>
 
 ---
 
