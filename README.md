@@ -1,12 +1,12 @@
 # Hi, I'm Eliron
 
-I'm a 23-year-old coder with a focus on automation, scripting, and backend systems. I spend most of my time building tools that solve real problems — automating repetitive tasks, improving workflows, or digging into system internals. Lately, I’ve been shifting more toward cybersecurity and low-level tech, and I’m looking for opportunities in that space.
+I'm a 24-year-old builder focused on automation, backend systems, and AI workflows. I like turning messy manual processes into tools that are useful, reliable, and easy to operate.
 
-Over the past year, I’ve worked directly with clients across different industries to build custom automation and optimization systems. These solutions included AI-based tools as well as more traditional backend setups to help teams save time and reduce operational noise. I handled everything from architecture to deployment, working remotely with teams across the globe.
+Over the past two years, I have worked with clients across different industries to build automation and optimization systems. That work has covered AI-based tools, scripting, backend services, and workflow improvements for remote teams in the United States, the United Kingdom, and Israel.
 
-My repos are mostly personal tools, backend experiments, or scripts in Python, Go, or TypeScript. I'm always trying to learn something new or simplify something messy.
+I'm currently building **[Sellable](https://www.sellabl.app/)**, an AI property marketing and buyer follow-up platform, and **[Monte](https://www.monteengine.com/)**, an AI personalization engine for agents. I was also accepted into **Canopy by Founders, Inc.**
 
----
+Most of my public repos are personal tools, backend experiments, and scripts in Python, Go, or TypeScript. A lot of my current work is private while products are still being built.
 
 ## Skills & Expertise
 
@@ -14,32 +14,29 @@ My repos are mostly personal tools, backend experiments, or scripts in Python, G
     <img src="https://elironb-helper.vercel.app/images/skills-radar.png" alt="Skills Radar Chart" width="450" />
 </div>
 
----
+## What I Work On
 
-## Stuff I’ve Worked On
+- AI automation for business workflows
+- Backend services, APIs, and CLI tools
+- Process optimization for teams and operators
+- Python, TypeScript, Go, and Bash scripting
+- Practical agent workflows and personalization systems
 
-- Built automation systems for global clients — combining AI and scripting to simplify operations and cut down on manual work
-- Designed tools to optimize workflows, from backend automation to frontend data pipelines
-- Worked with international teams to deliver systems that actually got used, not just prototypes
+## Featured Work
 
----
+- **Sellable**, AI property marketing, listing audits, and buyer follow-up: [sellabl.app](https://www.sellabl.app/)
+- **Monte**, AI personalization and context engine for agents: [monteengine.com](https://www.monteengine.com/)
+- **[Twitter_Summarizer](https://github.com/ElironB/Twitter_Summarizer)**, LLM-based profile summaries from tweet history
+- **[shell-go](https://github.com/ElironB/shell-go)**, Go shell utilities and CLI experiments
+- **[SEO-keywords-generator](https://github.com/ElironB/SEO-keywords-generator)**, CLI keyword generation for SEO workflows
 
-## Featured Projects
+## Right Now
 
-- **[Twitter_Summarizer](https://github.com/ElironB/Twitter_Summarizer)** – Script that summarizes profiles based on tweets using LLM
-- **[shell-go](https://github.com/ElironB/shell-go)** – Go-based shell utilities and CLI experiments
-- **[SEO-keywords-generator](https://github.com/ElironB/SEO-keywords-generator)** – CLI tool to generate keyword lists for SEO
-- **[JoyfulAPI](https://github.com/ElironB/JoyfulAPI)** – TypeScript-based API boilerplate
-- **[http-server](https://github.com/ElironB/http-server)** – Minimal web server written in Python
-
----
-
-## Right Now I'm Focused On
-
-- Optimizing Entire Businesses. 
-
----
+- Building Sellable
+- Developing Monte
+- Improving backend automation systems
+- Exploring cybersecurity, infrastructure, and low-level systems
 
 ## Contact
 
-Open to opportunities, ideas, or just interesting conversations. Reach out here on GitHub or through the contact info in my resume.
+Open to opportunities, ideas, and useful conversations. Reach out here on GitHub or through the contact info in my resume.
