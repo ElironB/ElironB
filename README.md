@@ -10,16 +10,15 @@ I build product, backend, and automation systems that remove manual work and hel
 
 ## What I've built
 
-- NDA-bound growth and automation systems for service businesses, including one project that helped scale revenue from about **$300k to $1M**
-- **[Sellable](https://www.sellabl.app/)**, an AI property marketing and buyer follow-up product
-- **[Monte](https://www.monteengine.com/)**, a personalization and context engine for AI agents
-- Client systems across Israel, the UK, and the US spanning dashboards, backend workflows, APIs, internal tools, and agent-driven operations
+- Growth and automation systems for service businesses
+- Product and backend workflows for teams in Israel, the UK, and the US
+- AI-powered tools, internal systems, APIs, and operator workflows
 
-## Selected public work
+## Public code I can actually show
 
-- **[monte-engine](https://github.com/ElironB/monte-engine)**  Open-source runtime for persona-backed personalization and simulation in AI agents
-- **[Monte](https://github.com/ElironB/Monte)**  Hosted-oriented personalization layer for AI apps
-- **[property-optimizer](https://github.com/ElironB/property-optimizer)**  Sellable product repo for listing audits, lead workflows, and buyer follow-up
+- **[monte-engine](https://github.com/ElironB/monte-engine)**  Persona-backed personalization and simulation runtime for AI agents
+- **[Monte](https://github.com/ElironB/Monte)**  Personalization layer for AI apps with context and simulation flows
+- **[property-optimizer](https://github.com/ElironB/property-optimizer)**  Real estate workflow product for listing analysis and buyer follow-up
 - **[ngmixtwitter](https://github.com/ElironB/ngmixtwitter)**  X/Twitter distribution graph app with backend analysis flow
 - **[cyber-ai](https://github.com/ElironB/cyber-ai)**  AI red teaming assessment with jailbreak and prompt-injection work
 
@@ -29,10 +28,8 @@ Python, TypeScript, Go, Bash, Next.js, Fastify, Supabase, APIs, CLI tooling, wor
 
 ## Note
 
-A lot of my strongest commercial work is private or NDA-bound. The public repos here are the cleanest product and engineering signal I can share openly right now.
+A lot of my strongest commercial work is private or NDA-bound. This profile only points to code and projects I can share publicly.
 
 ## Contact
 
 - LinkedIn: <https://www.linkedin.com/in/elironb>
-- Sellable: <https://www.sellabl.app/>
-- Monte: <https://www.monteengine.com/>
