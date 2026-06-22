@@ -13,14 +13,15 @@ I build product, backend, and automation systems that remove manual work and hel
 - Growth and automation systems for service businesses
 - Product and backend workflows for teams in Israel, the UK, and the US
 - AI-powered tools, internal systems, APIs, and operator workflows
+- **[Sellable](https://www.sellabl.app/)**, an AI property marketing and buyer follow-up product
+- **[Monte](https://www.monteengine.com/)**, a personalization and context engine for AI agents
 
-## Public code I can actually show
+## Public GitHub samples
 
-- **[monte-engine](https://github.com/ElironB/monte-engine)**  Persona-backed personalization and simulation runtime for AI agents
-- **[Monte](https://github.com/ElironB/Monte)**  Personalization layer for AI apps with context and simulation flows
-- **[property-optimizer](https://github.com/ElironB/property-optimizer)**  Real estate workflow product for listing analysis and buyer follow-up
-- **[ngmixtwitter](https://github.com/ElironB/ngmixtwitter)**  X/Twitter distribution graph app with backend analysis flow
-- **[cyber-ai](https://github.com/ElironB/cyber-ai)**  AI red teaming assessment with jailbreak and prompt-injection work
+- **[Twitter_Summarizer](https://github.com/ElironB/Twitter_Summarizer)**  Summarizes profiles from tweet history
+- **[shell-go](https://github.com/ElironB/shell-go)**  Go CLI and shell experiments
+- **[http-server](https://github.com/ElironB/http-server)**  Lightweight Python HTTP server project
+- **[SEO-keywords-generator](https://github.com/ElironB/SEO-keywords-generator)**  CLI keyword generation tool for SEO workflows
 
 ## Stack
 
