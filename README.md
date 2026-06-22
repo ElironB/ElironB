@@ -1,42 +1,38 @@
 # Hi, I'm Eliron
 
-I'm a 24-year-old builder focused on automation, backend systems, and AI workflows. I like turning messy manual processes into tools that are useful, reliable, and easy to operate.
+I build product, backend, and automation systems that remove manual work and help teams move faster.
 
-Over the past two years, I have worked with clients across different industries to build automation and optimization systems. That work has covered AI-based tools, scripting, backend services, and workflow improvements for remote teams in the United States, the United Kingdom, and Israel.
+## Current focus
 
-I'm currently building **[Sellable](https://www.sellabl.app/)**, an AI property marketing and buyer follow-up platform, and **[Monte](https://www.monteengine.com/)**, an AI personalization engine for agents. I was also accepted into **Canopy by Founders, Inc.**
+- Growth Engineer
+- Product / Founding Product Engineer
+- Backend Automation / Integrations Engineer
 
-Most of my public repos are personal tools, backend experiments, and scripts in Python, Go, or TypeScript. A lot of my current work is private while products are still being built.
+## What I've built
 
-## Skills & Expertise
+- NDA-bound growth and automation systems for service businesses, including one project that helped scale revenue from about **$300k to $1M**
+- **[Sellable](https://www.sellabl.app/)**, an AI property marketing and buyer follow-up product
+- **[Monte](https://www.monteengine.com/)**, a personalization and context engine for AI agents
+- Client systems across Israel, the UK, and the US spanning dashboards, backend workflows, APIs, internal tools, and agent-driven operations
 
-<div align="left">
-    <img src="https://elironb-helper.vercel.app/images/skills-radar.png" alt="Skills Radar Chart" width="450" />
-</div>
+## Selected public work
 
-## What I Work On
+- **[monte-engine](https://github.com/ElironB/monte-engine)**  Open-source runtime for persona-backed personalization and simulation in AI agents
+- **[Monte](https://github.com/ElironB/Monte)**  Hosted-oriented personalization layer for AI apps
+- **[property-optimizer](https://github.com/ElironB/property-optimizer)**  Sellable product repo for listing audits, lead workflows, and buyer follow-up
+- **[ngmixtwitter](https://github.com/ElironB/ngmixtwitter)**  X/Twitter distribution graph app with backend analysis flow
+- **[cyber-ai](https://github.com/ElironB/cyber-ai)**  AI red teaming assessment with jailbreak and prompt-injection work
 
-- AI automation for business workflows
-- Backend services, APIs, and CLI tools
-- Process optimization for teams and operators
-- Python, TypeScript, Go, and Bash scripting
-- Practical agent workflows and personalization systems
+## Stack
 
-## Featured Work
+Python, TypeScript, Go, Bash, Next.js, Fastify, Supabase, APIs, CLI tooling, workflow automation, AI systems
 
-- **Sellable**, AI property marketing, listing audits, and buyer follow-up: [sellabl.app](https://www.sellabl.app/)
-- **Monte**, AI personalization and context engine for agents: [monteengine.com](https://www.monteengine.com/)
-- **[Twitter_Summarizer](https://github.com/ElironB/Twitter_Summarizer)**, LLM-based profile summaries from tweet history
-- **[shell-go](https://github.com/ElironB/shell-go)**, Go shell utilities and CLI experiments
-- **[SEO-keywords-generator](https://github.com/ElironB/SEO-keywords-generator)**, CLI keyword generation for SEO workflows
+## Note
 
-## Right Now
-
-- Building Sellable
-- Developing Monte
-- Improving backend automation systems
-- Exploring cybersecurity, infrastructure, and low-level systems
+A lot of my strongest commercial work is private or NDA-bound. The public repos here are the cleanest product and engineering signal I can share openly right now.
 
 ## Contact
 
-Open to opportunities, ideas, and useful conversations. Reach out here on GitHub or through the contact info in my resume.
+- LinkedIn: <https://www.linkedin.com/in/elironb>
+- Sellable: <https://www.sellabl.app/>
+- Monte: <https://www.monteengine.com/>
